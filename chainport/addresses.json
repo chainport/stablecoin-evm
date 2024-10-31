@@ -1,0 +1,24 @@
+{
+  "chilizTestnet": {
+    "ChainportCongress": "0x2428024359587e94c08cb1082f93d8b329a2148d",
+    "TokenProxyAdmin": "",
+    "security_operation_1": "0x62Ea0BE92A9c85Ac76576cBe9A4d63DA6697E658",
+    "security_operation_2": "0x782D1Dbb8850110C8a5B76252261a1bB9cC5dD5b",
+    "ChainportSideBridge": "0xd109a0af4edceb5b318390880b3086fa285fee5c",
+    "FiatTokenProxy": "0x813de57363f77d8647ED07356e3fc874c052806e",
+    "FiatTokenV2_2": "0x320FEF7C45686D66C3fEcD1186D588F4CBAf84E0",
+    "MasterMinter": "0x149f1f09d4C634Ae14995bedA5fbf7f69C2A9F46",
+    "SignatureChecker": "0x49a871e5e75Dee712ead34E573902a4234E8c70C"
+  },
+  "chilizMainnet": {
+    "ChainportCongress": "0xf6a67305b841584181239f42194bd48c5c7478f4",
+    "TokenProxyAdmin": "0x877d233c59741f36154bb7fbaea853e317fbdcd6",
+    "security_operation_1": "0x097bdc9e913539b6aa0a79389ccc084b9502846a",
+    "security_operation_2": "0xa829446eec801483b32f5d5486374672aad7e028",
+    "ChainportSideBridge": "0xf803e8ca755ae4770b5e6072a1e3cb97631d76ee",
+    "FiatTokenProxy": "0xa37936F56249965d407E39347528a1A91eB1cbef",
+    "FiatTokenV2_2": "0xe93cAaF59C23eD6d0B5eF1Ae015DB32117d0cDD6",
+    "MasterMinter": "0xC56DE547270ba3339c45994552780D45b6c96814",
+    "SignatureChecker": "0x118cbd7a4769846AD4928598D1f805a509Cc8c0d"
+  }
+}

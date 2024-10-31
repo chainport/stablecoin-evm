@@ -70,6 +70,14 @@ const hardhatConfig: HardhatUserConfig = {
       url: process.env.MAINNET_RPC_URL || "",
       gasMultiplier,
     },
+    chilizTestnet: {
+      url: "https://spicy-rpc.chiliz.com/",
+      gasMultiplier,
+    },
+    chilizMainnet: {
+      url: "https://rpc.chiliz.com",
+      gasMultiplier,
+    },
   },
   typechain: {
     outDir: "./@types/generated",
